@@ -29,30 +29,974 @@ Readings
 
 Most assignments also begin with a brief biographical reading on a composer, from [Grove® Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service that is not provided for OCW users\].
 
-| CLASS # | TOPICS | WORK STUDIED | CLASS NOTES | READINGS | ASSIGNMENTS |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Late-Romanticism and the Dawn of Modernism | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Mahler, Gustav. Symphony No. 3, Movement 4. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Mahler, Gustav. _Das Lied von der Erde_. {{< br >}}{{< br >}} \----. Symphony No. 5. {{< br >}}{{< br >}} Strauss, Richard. _Salome._ {{< br >}}{{< br >}}  | [Class 1 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class01) | &nbsp; |
-| 2 | Impressionism, Mystic Synesthesia, and Orchestral Exuberance | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Debussy, Claude. "Pagodes" from _Estampes_. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Debussy, Claude. _Prélude à l'après-midi d'un faune_ and _La mer._ {{< br >}}{{< br >}} Scriabin, Alexander. _Prometheus._ {{< br >}}{{< br >}}  | [Class 2 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class02) | \[Auner\] pp. 16–34. | [Class 2 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn02) |
-| 3 | Expressionism and Atonality | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Schoenberg, Arnold. "Mondestrunken" from _Pierrot lunaire_. {{< br >}}{{< br >}} Berg, Alban. _Wozzeck_, Act III, transition and scene 3. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Schoenberg, Arnold. _Verklärte Nacht._ {{< br >}}{{< br >}} Berg, Alban. _Lyric Suite._ {{< br >}}{{< br >}}  | [Class 3 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class03) |  {{< br >}}{{< br >}} \[Auner\] pp. 35–38 and 45–54. {{< br >}}{{< br >}} \[Strunk\] Schoenberg, Arnold. "Two Letters to Ferrucio Busoni." Reading #170, pp. 1283–9. {{< br >}}{{< br >}}  | [Class 3 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn03) |
-| 4 | Symphonic Innovations | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Ives, Charles. Symphony No. 4, Movement 1. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Ives, Charles. "Decoration Day" from _New England Holidays._ {{< br >}}{{< br >}} Sibelius, Jean. Symphony No. 5, Movement 1. {{< br >}}{{< br >}}  | [Class 4 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class04) |  {{< br >}}{{< br >}} \[Auner\] pp. 56–64. {{< br >}}{{< br >}} \[Strunk\] Ives, Charles. "Music and its Future." Reading #178, pp. 1335–9. {{< br >}}{{< br >}}  | [Class 4 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn04) |
-| 5 | Stravinsky's Russian Ballets | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Stravinsky, Igor. _Le sacre du printemps_, Part I, Introduction. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Stravinksy, Igor. _Firebird_ {{< br >}}{{< br >}} _\----. Petrushka._ {{< br >}}{{< br >}}  | [Class 5 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class05) | \[Auner\] pp. 64–67 and 70–76. | [Class 5 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn05) |
-| 6 | Weimar Modernism | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Weill, Kurt. _Der Lindberghflug_, "Introduction of the Pilot." {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Weill, Kurt. _Threepenny Opera._ {{< br >}}{{< br >}} *   Jozef Sterkens. "[Die Dreigroschenoper - subtitles - songs of the 1931 movie](https://www.youtube.com/watch?v=-igC0jAV_zQ&feature=youtu.be&t=2m)." September 17, 2013. YouTube. (Watch "Die Moritat von Mackie Messer" from 2:00 until 4:38){{< br >}}*   rongcentury. "[Lotte Lenya Singing "Seeräuber Jenny" (Pirate Jenny)](https://www.youtube.com/watch?v=Ec0clERjQ5A)." July 7, 2008. YouTube. {{< br >}}{{< br >}} Hindemith, Paul. _Symphony: Mathis der Maler._ {{< br >}}{{< br >}}  | [Class 6 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class06) |  {{< br >}}{{< br >}} \[Auner\] pp. 82–92. {{< br >}}{{< br >}} \[Strunk\] Weill, Kurt. "Shifts in Musical Production." Reading #186, pp. 1393–5. {{< br >}}{{< br >}} Hinton, Stephen. "Neue Sachlichkeit, Surrealism, and Gebrauchsmusik." In _A New Orpheus: Essays on Kurt Weill_. Yale University Press, 1990. ISBN: 9780300046168. {{< br >}}{{< br >}}  | [Class 6 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn06) |
-| 7 | Neo-Classicism | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Stravinsky, Igor. _Symphonie de psaumes_, Movement 2. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Stravinsky, Igor. _Pulcinella._ {{< br >}}{{< br >}} Satie, Erik. _Parade._ {{< br >}}{{< br >}} Prokofiev, Sergei. _Symphony No. 1_ "Classical." {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Class 7 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class07) {{< br >}}{{< br >}} [Handout on set theory: intervals and atonality (PDF)]({{< baseurl >}}/resources/mit21m_260s16_settheory) (Courtesy of Michael Cuthbert. Used with permission.) {{< br >}}{{< br >}}  | \[Auner\] pp. 103–17. | [Class 7 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn07) |
-| 8 | The Influence of Jazz | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Ravel, Maurice. _Concerto in G for Piano and Orchestra_, Movement 1. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Gershwin, George. _Rhapsody in Blue._ {{< br >}}{{< br >}} Milhaud, Darius. _La création du monde._ {{< br >}}{{< br >}}  | [Class 8 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class08) |  {{< br >}}{{< br >}} \[Auner\] pp. 95, 99–101, and 118–23. {{< br >}}{{< br >}} Weiss, Piero, and Richard Taruskin. "The Assimilation of Jazz (Gershwin, Ravel)." Reading 145 in _Music in the Western World: A History in Documents_. 2nd edition. Schirmer, 2007, pp. 406–8. ISBN: 9780534585990. {{< br >}}{{< br >}}  | [Class 8 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn08) |
-| 9 | The Twelve-Tone System | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Schoenberg, Arnold. _Piano Piece_, Op. 33a. {{< br >}}{{< br >}} Webern, Anton. _Symphony_, Op. 21, Movement 2. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Webern, Anton. Orchestration of J.S. Bach's _The Art of Fugue._ {{< br >}}{{< br >}} Berg, Alban. _Violin Concerto._ {{< br >}}{{< br >}}  | [Class 9 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class09) | \[Auner\] pp. 124–41. | [Class 9 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn09) |
-| 10 | Bartók: The Formal and the Folk | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Bartók, Béla. _Music for Strings, Percussion, and Celesta_, Movement 1. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Bartók, Bela. _Duke Bluebeard's Castle._ {{< br >}}{{< br >}} _\----. String Quartet No. 4._ {{< br >}}{{< br >}}  | [Class 10 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class10) | \[Auner\] pp. 67–70 and 142–6. | [Class 10 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn10) |
-| 11 | American and British Landscapes | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Copland, Aaron_._ "_Billy the Kid Suite_" and "Street in a Frontier Town." {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Copland, Aaron. _Appalachian Spring._ {{< br >}}{{< br >}} Williams, Ralph Vaughan. _Symphony No. 3_ "Pastoral." {{< br >}}{{< br >}}  | [Class 11 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class11) | \[Auner\] pp. 148–9 and 153–61. | [Class 11 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn11) |
-| 12 | Nationalism as Style; Style as Nationalism | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} William, Grant Still. _Africa_, Movement 2. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Villa-Lobos, Heitor. _Bachianas Brasileiras_ No. 7, "Tocata." {{< br >}}{{< br >}} McPhee, Colin. _Tabuh-Tabuhan_, "Ostinatos." {{< br >}}{{< br >}} Janáček, Leoš. _Káťa Kabanová_, "No, no, no one, yet my heart was beating." {{< br >}}{{< br >}}  | [Class 12 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class12) |  {{< br >}}{{< br >}} \[Auner\] pp. 149–52 and 161–6. {{< br >}}{{< br >}} \[Strunk\] Still, William Grant. Excerpt from "Horizons Unlimited." Reading #195, pp. 1421-3. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Class 12 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn12) {{< br >}}{{< br >}} Paper 1 due {{< br >}}{{< br >}}  |
-| 13 | Reactions to Destruction | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Britten, Benjamin. _. War Requiem_. "Requiem aeternam." {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Britten, Benjamin. _Peter Grimes._ {{< br >}}{{< br >}} Strauss, Richard. _Vier letzte Lieder._ {{< br >}}{{< br >}}  | [Class 13 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class13) | \[Auner\] pp. 170–81. | [Class 13 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn13) |
-| 14 | In the Soviet Union | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Shostakovich, Dmitri. _String Quartet No. 8, Op. 110_, Movement 3. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Shostakovich, Dmitri. _Symphony No. 5_ {{< br >}}{{< br >}} _\----. Lady Macbeth of the Mtsensk District._ {{< br >}}{{< br >}} Prokofiev, Sergei. _Romeo and Juliet._ {{< br >}}{{< br >}}  | [Class 14 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class14) |  {{< br >}}{{< br >}} \[Auner\] pp. 181–9. {{< br >}}{{< br >}} \[Strunk\] _Pravda's_ 1936 review of Lady Macbeth of the Mtsensk: "Chaos Instead of Music." Reading #188, pp. 1397–9. {{< br >}}{{< br >}}  | [Class 14 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn14) |
-| 15 | Systematic Strategies | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Boulez, Pierre. _Le marteau sans maître_, Movement 5. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Messiaen, Olivier. _Quatuor pour la fin du temps._ {{< br >}}{{< br >}} Babbitt, Milton. _Semi-Simple Variations._ {{< br >}}{{< br >}} *   [Arrangement by The Bad Plus](https://www.youtube.com/watch?v=K39WSdVYGdc) (YouTube) {{< br >}}{{< br >}}  | [Class 15 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class15) |  {{< br >}}{{< br >}} \[Auner\] pp. 190–99. {{< br >}}{{< br >}} \[Strunk\] Babbitt, Milton. "Who Cares if You Listen?" Reading #174, pp. 1305–11. {{< br >}}{{< br >}} \[Strunk\] Boulez, Pierre. "Tendencies in Recent Music." Reading #180, pp. 1346–52. {{< br >}}{{< br >}}  | [Class 15 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn15) |
-| 16 | Music and Avant-Garde Performance/Art | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Oliveros, Pauline. _Traveling Companions._ {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Cage, John. _Notations_ {{< br >}}{{< br >}} _\----. Imaginary Landscape No. 5._ {{< br >}}{{< br >}} Stockhausen, Karlheinz. _Aus den sieben Tagen._ {{< br >}}{{< br >}} Ono, Yoko. _Grapefruit._ {{< br >}}{{< br >}}  | [Class 16 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class16) |  {{< br >}}{{< br >}} \[Auner\] pp. 199–210. {{< br >}}{{< br >}} \[Strunk\] Cage, John. "Experimental Music." Reading #173, pp. 1301–5. {{< br >}}{{< br >}} \[Strunk\] Cardew, Cornelius. Excerpt from "A Scratch Orchestra: Draft Constitution." Reading #192, pp. 1409–11. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Class 16 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn16) {{< br >}}{{< br >}} Paper 1 revision due {{< br >}}{{< br >}}  |
-| 17 | Machines and Technologies | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Davidovsky, Mario. _Synchronisms No. 6_ for Piano and Tape. {{< br >}}{{< br >}} Saariaho, Kaija. _Noanoa._ {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Russolo, Luigi. _Risveglio di una Città._ {{< br >}}{{< br >}} Antheil, George. _Ballet mécanique_, Roll One. {{< br >}}{{< br >}} Varèse, Edgard. _Hyperprism_ {{< br >}}{{< br >}} _\----. Poème électronique._ {{< br >}}{{< br >}} Stockhausen, Karlheinz. _Gesang der Jünglinge._ {{< br >}}{{< br >}}  | [Class 17 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class17) |  {{< br >}}{{< br >}} \[Auner\] pp. 212–32. {{< br >}}{{< br >}} \[Strunk\] Russolo, Luigi. "The Art of Noises." Reading #170, pp. 1328–33. {{< br >}}{{< br >}} ﻿\[Strunk\] Varèse, Edgard. "The Liberation of Sound." Reading #179, pp. 1339–46. {{< br >}}{{< br >}} ﻿\[Strunk\] Stockhausen, Karlheinz. Excerpt from "The Concept of Unity in Electronic Music." Reading #182, pp. 1366–71. {{< br >}}{{< br >}}  | [Class 17 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn17) |
-| 18 | New Textures and Spectral Music | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Ligeti, György. _Continuum._ {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Ligeti, György. _Atmosphères._ {{< br >}}{{< br >}} Nancarrow, Conlon. _Study 3._ {{< br >}}{{< br >}} Grisey, Gérard. _Partiels._ {{< br >}}{{< br >}} Murail, Tristan. _Vues aériennes._ {{< br >}}{{< br >}}  | [Class 18 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class18) | \[Auner\] pp. 234–52. | [Class 18 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn18) |
-| 19 | Complication, Again | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Carter, Elliott. String _Quartet No. 5_, first four sections. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Lachenmann, Helmut. "…_zwei Gefühle_…" {{< br >}}{{< br >}} Ferneyhough, Brian. _Flurries._ {{< br >}}{{< br >}}  | [Class 19 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class19) | \[Auner\] pp. 251–55. | [Class 19 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn19) |
-| 20 | Post-Modernism | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Crumb, George. _Vox balaenae_ {{< br >}}{{< br >}} *   Chicago Humanities Festival. "[Vox Balaenae (Voice of the Whale) - Performance & Discussion](https://www.youtube.com/watch?v=yN_5HtkmztM)." January 7, 2014. YouTube. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Crumb, George. _Ancient Voices of Children._ {{< br >}}{{< br >}} Berio, Luciano. _Sinfonia._ {{< br >}}{{< br >}}  | [Class 20 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class20) |  {{< br >}}{{< br >}} \[Auner\] pp. 257–73. {{< br >}}{{< br >}} \[Strunk\] Ziporyn, Evan. "Who Listens if You Care?" Reading #175, pp. 1312–8. {{< br >}}{{< br >}}  | [Class 20 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn20) |
-| 21 | Music from "The East" | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Yi, Chen. _Ba Ban_. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Takemitsu, Toru. _November Steps._ {{< br >}}{{< br >}}  | [Class 21 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class21) | \[Auner\] pp. 274–6. |  {{< br >}}{{< br >}} [Class 21 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn21) {{< br >}}{{< br >}} Paper 2: Ready for peer review of abstract and outlines {{< br >}}{{< br >}}  |
-| 22 |  {{< br >}}{{< br >}} Minimalism and its Aftermath {{< br >}}{{< br >}} Guest speaker: Evan Ziporyn {{< br >}}{{< br >}}  | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Reich, Steve. _Violin Phase_. {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Reich, Steve. _Different Trains._ {{< br >}}{{< br >}} Riley, Terry. _In C._ {{< br >}}{{< br >}}  | [Class 22 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class22) |  {{< br >}}{{< br >}} \[Auner\] pp. 278–93. {{< br >}}{{< br >}} Reich, Steve. "Music as a Gradual Process." In _Writings on Music, 1965–2000_. Oxford University Press, 2002. ISBN: 9780195111712. \[Preview with [Google Books](http://books.google.com/books?id=e03al4R3s04C&pg=PA34=onepage)\] {{< br >}}{{< br >}} Bernard, Jonathan W. "[The Minimalist Aesthetic in the Plastic Arts and in Music](http://www.jstor.org/stable/833043)." _Perspectives of New Music_ 31 no. 1 (Winter 1993): 86–132. {{< br >}}{{< br >}}  | [Class 22 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn22) |
-| 23 | Great(?) American Opera | {{< h 3 >}}\[Anthology\]{{< /h >}} {{< br >}}{{< br >}} Adams, John. _Doctor Atomic_, Act I, scene 3: Batter my heart. {{< br >}}{{< br >}} *   [Video by Met Opera on Demand](http://www.metopera.org/Season/On-Demand/opera/?upc=811357012130) \[viewable with a 7-day free trial\] {{< br >}}{{< br >}} {{< h 3 >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Adams, John. _Nixon in China._ {{< br >}}{{< br >}} Glass, Philip. _Einstein on the Beach._ {{< br >}}{{< br >}}  | [Class 23 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class23) | \[Auner\] pp. 293–305. | [Class 23 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn23) |
-| 24 | Guest speaker: Joseph Auner (Tufts University and author of our textbook) | &nbsp; |
-| 25 | Short presentations on Paper 2 | &nbsp; | Paper 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WORK STUDIED
+{{< thclose >}}
+{{< thopen >}}
+CLASS NOTES
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Late-Romanticism and the Dawn of Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Mahler, Gustav. Symphony No. 3, Movement 4.
+
+### Supplemental
+
+Mahler, Gustav. _Das Lied von der Erde_.
+
+\----. Symphony No. 5.
+
+Strauss, Richard. _Salome._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 1 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class01)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Impressionism, Mystic Synesthesia, and Orchestral Exuberance
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Debussy, Claude. "Pagodes" from _Estampes_.
+
+### Supplemental
+
+Debussy, Claude. _Prélude à l'après-midi d'un faune_ and _La mer._
+
+Scriabin, Alexander. _Prometheus._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 2 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class02)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 16–34.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 2 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Expressionism and Atonality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Schoenberg, Arnold. "Mondestrunken" from _Pierrot lunaire_.
+
+Berg, Alban. _Wozzeck_, Act III, transition and scene 3.
+
+### Supplemental
+
+Schoenberg, Arnold. _Verklärte Nacht._
+
+Berg, Alban. _Lyric Suite._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 3 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class03)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 35–38 and 45–54.
+
+\[Strunk\] Schoenberg, Arnold. "Two Letters to Ferrucio Busoni." Reading #170, pp. 1283–9.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 3 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Symphonic Innovations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Ives, Charles. Symphony No. 4, Movement 1.
+
+### Supplemental
+
+Ives, Charles. "Decoration Day" from _New England Holidays._
+
+Sibelius, Jean. Symphony No. 5, Movement 1.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 4 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class04)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 56–64.
+
+\[Strunk\] Ives, Charles. "Music and its Future." Reading #178, pp. 1335–9.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 4 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Stravinsky's Russian Ballets
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Stravinsky, Igor. _Le sacre du printemps_, Part I, Introduction.
+
+### Supplemental
+
+Stravinksy, Igor. _Firebird_
+
+_\----. Petrushka._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 5 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class05)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 64–67 and 70–76.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 5 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Weimar Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Weill, Kurt. _Der Lindberghflug_, "Introduction of the Pilot."
+
+### Supplemental
+
+Weill, Kurt. _Threepenny Opera._
+
+*   Jozef Sterkens. "[Die Dreigroschenoper - subtitles - songs of the 1931 movie](https://www.youtube.com/watch?v=-igC0jAV_zQ&feature=youtu.be&t=2m)." September 17, 2013. YouTube. (Watch "Die Moritat von Mackie Messer" from 2:00 until 4:38)
+*   rongcentury. "[Lotte Lenya Singing "Seeräuber Jenny" (Pirate Jenny)](https://www.youtube.com/watch?v=Ec0clERjQ5A)." July 7, 2008. YouTube.
+
+Hindemith, Paul. _Symphony: Mathis der Maler._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 6 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class06)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 82–92.
+
+\[Strunk\] Weill, Kurt. "Shifts in Musical Production." Reading #186, pp. 1393–5.
+
+Hinton, Stephen. "Neue Sachlichkeit, Surrealism, and Gebrauchsmusik." In _A New Orpheus: Essays on Kurt Weill_. Yale University Press, 1990. ISBN: 9780300046168.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 6 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Neo-Classicism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Stravinsky, Igor. _Symphonie de psaumes_, Movement 2.
+
+### Supplemental
+
+Stravinsky, Igor. _Pulcinella._
+
+Satie, Erik. _Parade._
+
+Prokofiev, Sergei. _Symphony No. 1_ "Classical."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Class 7 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class07)
+
+[Handout on set theory: intervals and atonality (PDF)]({{< baseurl >}}/resources/mit21m_260s16_settheory) (Courtesy of Michael Cuthbert. Used with permission.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 103–17.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 7 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Influence of Jazz
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Ravel, Maurice. _Concerto in G for Piano and Orchestra_, Movement 1.
+
+### Supplemental
+
+Gershwin, George. _Rhapsody in Blue._
+
+Milhaud, Darius. _La création du monde._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 8 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class08)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 95, 99–101, and 118–23.
+
+Weiss, Piero, and Richard Taruskin. "The Assimilation of Jazz (Gershwin, Ravel)." Reading 145 in _Music in the Western World: A History in Documents_. 2nd edition. Schirmer, 2007, pp. 406–8. ISBN: 9780534585990.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 8 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Twelve-Tone System
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Schoenberg, Arnold. _Piano Piece_, Op. 33a.
+
+Webern, Anton. _Symphony_, Op. 21, Movement 2.
+
+### Supplemental
+
+Webern, Anton. Orchestration of J.S. Bach's _The Art of Fugue._
+
+Berg, Alban. _Violin Concerto._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 9 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class09)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 124–41.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 9 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Bartók: The Formal and the Folk
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Bartók, Béla. _Music for Strings, Percussion, and Celesta_, Movement 1.
+
+### Supplemental
+
+Bartók, Bela. _Duke Bluebeard's Castle._
+
+_\----. String Quartet No. 4._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 10 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class10)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 67–70 and 142–6.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 10 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+American and British Landscapes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Copland, Aaron_._ "_Billy the Kid Suite_" and "Street in a Frontier Town."
+
+### Supplemental
+
+Copland, Aaron. _Appalachian Spring._
+
+Williams, Ralph Vaughan. _Symphony No. 3_ "Pastoral."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 11 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class11)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 148–9 and 153–61.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 11 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Nationalism as Style; Style as Nationalism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+William, Grant Still. _Africa_, Movement 2.
+
+### Supplemental
+
+Villa-Lobos, Heitor. _Bachianas Brasileiras_ No. 7, "Tocata."
+
+McPhee, Colin. _Tabuh-Tabuhan_, "Ostinatos."
+
+Janáček, Leoš. _Káťa Kabanová_, "No, no, no one, yet my heart was beating."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 12 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class12)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 149–52 and 161–6.
+
+\[Strunk\] Still, William Grant. Excerpt from "Horizons Unlimited." Reading #195, pp. 1421-3.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Class 12 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn12)
+
+Paper 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Reactions to Destruction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Britten, Benjamin. _. War Requiem_. "Requiem aeternam."
+
+### Supplemental
+
+Britten, Benjamin. _Peter Grimes._
+
+Strauss, Richard. _Vier letzte Lieder._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 13 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class13)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 170–81.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 13 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+In the Soviet Union
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Shostakovich, Dmitri. _String Quartet No. 8, Op. 110_, Movement 3.
+
+### Supplemental
+
+Shostakovich, Dmitri. _Symphony No. 5_
+
+_\----. Lady Macbeth of the Mtsensk District._
+
+Prokofiev, Sergei. _Romeo and Juliet._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 14 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class14)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 181–9.
+
+\[Strunk\] _Pravda's_ 1936 review of Lady Macbeth of the Mtsensk: "Chaos Instead of Music." Reading #188, pp. 1397–9.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 14 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Systematic Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Boulez, Pierre. _Le marteau sans maître_, Movement 5.
+
+### Supplemental
+
+Messiaen, Olivier. _Quatuor pour la fin du temps._
+
+Babbitt, Milton. _Semi-Simple Variations._
+
+*   [Arrangement by The Bad Plus](https://www.youtube.com/watch?v=K39WSdVYGdc) (YouTube)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 15 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class15)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 190–99.
+
+\[Strunk\] Babbitt, Milton. "Who Cares if You Listen?" Reading #174, pp. 1305–11.
+
+\[Strunk\] Boulez, Pierre. "Tendencies in Recent Music." Reading #180, pp. 1346–52.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 15 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Music and Avant-Garde Performance/Art
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Oliveros, Pauline. _Traveling Companions._
+
+### Supplemental
+
+Cage, John. _Notations_
+
+_\----. Imaginary Landscape No. 5._
+
+Stockhausen, Karlheinz. _Aus den sieben Tagen._
+
+Ono, Yoko. _Grapefruit._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 16 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class16)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 199–210.
+
+\[Strunk\] Cage, John. "Experimental Music." Reading #173, pp. 1301–5.
+
+\[Strunk\] Cardew, Cornelius. Excerpt from "A Scratch Orchestra: Draft Constitution." Reading #192, pp. 1409–11.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Class 16 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn16)
+
+Paper 1 revision due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Machines and Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Davidovsky, Mario. _Synchronisms No. 6_ for Piano and Tape.
+
+Saariaho, Kaija. _Noanoa._
+
+### Supplemental
+
+Russolo, Luigi. _Risveglio di una Città._
+
+Antheil, George. _Ballet mécanique_, Roll One.
+
+Varèse, Edgard. _Hyperprism_
+
+_\----. Poème électronique._
+
+Stockhausen, Karlheinz. _Gesang der Jünglinge._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 17 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class17)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 212–32.
+
+\[Strunk\] Russolo, Luigi. "The Art of Noises." Reading #170, pp. 1328–33.
+
+﻿\[Strunk\] Varèse, Edgard. "The Liberation of Sound." Reading #179, pp. 1339–46.
+
+﻿\[Strunk\] Stockhausen, Karlheinz. Excerpt from "The Concept of Unity in Electronic Music." Reading #182, pp. 1366–71.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 17 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+New Textures and Spectral Music
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Ligeti, György. _Continuum._
+
+### Supplemental
+
+Ligeti, György. _Atmosphères._
+
+Nancarrow, Conlon. _Study 3._
+
+Grisey, Gérard. _Partiels._
+
+Murail, Tristan. _Vues aériennes._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 18 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class18)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 234–52.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 18 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Complication, Again
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Carter, Elliott. String _Quartet No. 5_, first four sections.
+
+### Supplemental
+
+Lachenmann, Helmut. "…_zwei Gefühle_…"
+
+Ferneyhough, Brian. _Flurries._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 19 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class19)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 251–55.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 19 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn19)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Post-Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Crumb, George. _Vox balaenae_
+
+*   Chicago Humanities Festival. "[Vox Balaenae (Voice of the Whale) - Performance & Discussion](https://www.youtube.com/watch?v=yN_5HtkmztM)." January 7, 2014. YouTube.
+
+### Supplemental
+
+Crumb, George. _Ancient Voices of Children._
+
+Berio, Luciano. _Sinfonia._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 20 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class20)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 257–73.
+
+\[Strunk\] Ziporyn, Evan. "Who Listens if You Care?" Reading #175, pp. 1312–8.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 20 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn20)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Music from "The East"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Yi, Chen. _Ba Ban_.
+
+### Supplemental
+
+Takemitsu, Toru. _November Steps._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 21 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class21)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 274–6.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Class 21 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn21)
+
+Paper 2: Ready for peer review of abstract and outlines
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Minimalism and its Aftermath
+
+Guest speaker: Evan Ziporyn
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Reich, Steve. _Violin Phase_.
+
+### Supplemental
+
+Reich, Steve. _Different Trains._
+
+Riley, Terry. _In C._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 22 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class22)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Auner\] pp. 278–93.
+
+Reich, Steve. "Music as a Gradual Process." In _Writings on Music, 1965–2000_. Oxford University Press, 2002. ISBN: 9780195111712. \[Preview with [Google Books](http://books.google.com/books?id=e03al4R3s04C&pg=PA34=onepage)\]
+
+Bernard, Jonathan W. "[The Minimalist Aesthetic in the Plastic Arts and in Music](http://www.jstor.org/stable/833043)." _Perspectives of New Music_ 31 no. 1 (Winter 1993): 86–132.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 22 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Great(?) American Opera
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### \[Anthology\]
+
+Adams, John. _Doctor Atomic_, Act I, scene 3: Batter my heart.
+
+*   [Video by Met Opera on Demand](http://www.metopera.org/Season/On-Demand/opera/?upc=811357012130) \[viewable with a 7-day free trial\]
+
+### Supplemental
+
+Adams, John. _Nixon in China._
+
+Glass, Philip. _Einstein on the Beach._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 23 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class23)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Auner\] pp. 293–305.
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 23 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn23)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker: Joseph Auner (Tufts University and author of our textbook)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Short presentations on Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

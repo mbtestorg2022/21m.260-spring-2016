@@ -68,46 +68,654 @@ The use of computers and tablets is allowed for classwork only; smartphones are 
 Grading
 -------
 
-| COURSEWORK | PERCENTAGES |
-| --- | --- |
-| Attendance | 10% |
-| Warm-ups | 10% |
-| Daily assignments | 15% |
-| Five short listening quizzes | 10% |
-| Two live event reviews | 10% |
-| Paper 1 | 10% |
-| Paper 1 revised version | 10% |
-| Paper 2 | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Warm-ups
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily assignments
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five short listening quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two live event reviews
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1 revised version
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note that there are no formal exams. The five short listening identification quizzes on works in the Anthology will take less than 15 minutes and will happen at the beginning of class. Lateness or absence on these days is not advisable.
 
 Summary Calendar
 ----------------
 
-| CLASS # | TOPICS | COMPOSERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Late-Romanticism and the Dawn of Modernism |  {{< br >}}{{< br >}} Gustav Mahler {{< br >}}{{< br >}} Richard Strauss {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Impressionism, Mystic Synesthesia, and Orchestral Exuberance |  {{< br >}}{{< br >}} Claude Debussy {{< br >}}{{< br >}} Alexander Scriabin {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | Expressionism and Atonality |  {{< br >}}{{< br >}} Arnold Schoenberg {{< br >}}{{< br >}} Alban Berg {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Symphonic Innovations |  {{< br >}}{{< br >}} Charles Ives {{< br >}}{{< br >}} Jean Sibelius {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Stravinsky's Russian Ballets | Igor Stravinsky | Quiz 1: Anthology works from Lecture 1 to Lecture 4. |
-| 6 | Weimar Modernism |  {{< br >}}{{< br >}} Kurt Weill {{< br >}}{{< br >}} Paul Hindemith {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Neo-Classicism |  {{< br >}}{{< br >}} Igor Stravinsky {{< br >}}{{< br >}} Erik Satie {{< br >}}{{< br >}} Sergei Prokofiev {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | The Influence of Jazz |  {{< br >}}{{< br >}} Maurice Ravel {{< br >}}{{< br >}} George Gershwin {{< br >}}{{< br >}} Darius Milhaud {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | The Twelve-Tone System |  {{< br >}}{{< br >}} Arnold Schoenberg {{< br >}}{{< br >}} Anton Webern {{< br >}}{{< br >}} Alban Berg {{< br >}}{{< br >}}  | Quiz 2: Anthology works from Lecture 5 to Lecture 8 |
-| 10 | Bartók: The Formal and the Folk | Béla Bartók | &nbsp; |
-| 11 | American and British Landscapes |  {{< br >}}{{< br >}} Aaron Copland {{< br >}}{{< br >}} Ralph Vaughan Williams {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Nationalism as Style; Style as Nationalism |  {{< br >}}{{< br >}} William Grant Still {{< br >}}{{< br >}} Heitor Villa-Lobos {{< br >}}{{< br >}} Colin McPhee {{< br >}}{{< br >}} Leoš Janáček {{< br >}}{{< br >}}  | Paper 1 due |
-| 13 | Reactions to Destruction |  {{< br >}}{{< br >}} Benjamin Britten {{< br >}}{{< br >}} Richard Strauss {{< br >}}{{< br >}}  | Quiz 3: Anthology works from Lecture 9 to Lecture 12 |
-| 14 | In the Soviet Union |  {{< br >}}{{< br >}} Dmitri Shostakovich {{< br >}}{{< br >}} Sergei Prokofiev {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Systematic Strategies |  {{< br >}}{{< br >}} Pierre Boulez {{< br >}}{{< br >}} Olivier Messiaen {{< br >}}{{< br >}} Milton Babbitt {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | Music and Avant-Garde Performance / Art |  {{< br >}}{{< br >}} Pauline Oliveros {{< br >}}{{< br >}} John Cage {{< br >}}{{< br >}} Karlheinz Stockhausen {{< br >}}{{< br >}} Yoko Ono {{< br >}}{{< br >}}  | Paper 1 revision due |
-| 17 | Machines and Technologies |  {{< br >}}{{< br >}} Mario Davidovsky {{< br >}}{{< br >}} Kaija Saariaho {{< br >}}{{< br >}} Luigi Russolo {{< br >}}{{< br >}} George Antheil {{< br >}}{{< br >}} Edgard Varèse {{< br >}}{{< br >}} Karlheinz Stockhausen {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | New Textures and Spectral Music |  {{< br >}}{{< br >}} György Ligeti {{< br >}}{{< br >}} Conlon Nancarrow {{< br >}}{{< br >}} Gérard Grisey {{< br >}}{{< br >}} Tristan Murail {{< br >}}{{< br >}}  | Quiz 4: Anthology works from Lecture 13 to Lecture 17 |
-| 19 | Complication, Again |  {{< br >}}{{< br >}} Elliott Carter {{< br >}}{{< br >}} Helmut Lachenmann {{< br >}}{{< br >}} Brian Ferneyhough {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | Post-Modernism |  {{< br >}}{{< br >}} George Crumb {{< br >}}{{< br >}} Luciano Berio {{< br >}}{{< br >}}  | &nbsp; |
-| 21 | Music from "The East" |  {{< br >}}{{< br >}} Chen Yi {{< br >}}{{< br >}} Toru Takemitsu {{< br >}}{{< br >}}  | In class: Paper 2 peer review of abstracts and outlines |
-| 22 |  {{< br >}}{{< br >}} Minimalism and its Aftermath {{< br >}}{{< br >}} Guest speaker: Evan Ziporyn {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Steve Reich {{< br >}}{{< br >}} Terry Riley {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | Great(?) American Opera |  {{< br >}}{{< br >}} John Adams {{< br >}}{{< br >}} Philip Glass {{< br >}}{{< br >}}  | Quiz 5: Anthology works from Lecture 18 to Lecture 22 |
-| 24 | Guest speaker: Joseph Auner (Tufts University, textbook author) | &nbsp; |
-| 25 | Short presentations on Paper 2 | &nbsp; | Paper 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+COMPOSERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Late-Romanticism and the Dawn of Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gustav Mahler
+
+Richard Strauss
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Impressionism, Mystic Synesthesia, and Orchestral Exuberance
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Claude Debussy
+
+Alexander Scriabin
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Expressionism and Atonality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Arnold Schoenberg
+
+Alban Berg
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Symphonic Innovations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Charles Ives
+
+Jean Sibelius
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Stravinsky's Russian Ballets
+{{< tdclose >}}
+{{< tdopen >}}
+Igor Stravinsky
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1: Anthology works from Lecture 1 to Lecture 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Weimar Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kurt Weill
+
+Paul Hindemith
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Neo-Classicism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Igor Stravinsky
+
+Erik Satie
+
+Sergei Prokofiev
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Influence of Jazz
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Maurice Ravel
+
+George Gershwin
+
+Darius Milhaud
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Twelve-Tone System
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Arnold Schoenberg
+
+Anton Webern
+
+Alban Berg
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2: Anthology works from Lecture 5 to Lecture 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Bartók: The Formal and the Folk
+{{< tdclose >}}
+{{< tdopen >}}
+Béla Bartók
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+American and British Landscapes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aaron Copland
+
+Ralph Vaughan Williams
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Nationalism as Style; Style as Nationalism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+William Grant Still
+
+Heitor Villa-Lobos
+
+Colin McPhee
+
+Leoš Janáček
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Reactions to Destruction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Benjamin Britten
+
+Richard Strauss
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3: Anthology works from Lecture 9 to Lecture 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+In the Soviet Union
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dmitri Shostakovich
+
+Sergei Prokofiev
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Systematic Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pierre Boulez
+
+Olivier Messiaen
+
+Milton Babbitt
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Music and Avant-Garde Performance / Art
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pauline Oliveros
+
+John Cage
+
+Karlheinz Stockhausen
+
+Yoko Ono
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Machines and Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mario Davidovsky
+
+Kaija Saariaho
+
+Luigi Russolo
+
+George Antheil
+
+Edgard Varèse
+
+Karlheinz Stockhausen
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+New Textures and Spectral Music
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+György Ligeti
+
+Conlon Nancarrow
+
+Gérard Grisey
+
+Tristan Murail
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 4: Anthology works from Lecture 13 to Lecture 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Complication, Again
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Elliott Carter
+
+Helmut Lachenmann
+
+Brian Ferneyhough
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Post-Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+George Crumb
+
+Luciano Berio
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Music from "The East"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chen Yi
+
+Toru Takemitsu
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+In class: Paper 2 peer review of abstracts and outlines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Minimalism and its Aftermath
+
+Guest speaker: Evan Ziporyn
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Steve Reich
+
+Terry Riley
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Great(?) American Opera
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+John Adams
+
+Philip Glass
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 5: Anthology works from Lecture 18 to Lecture 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker: Joseph Auner (Tufts University, textbook author)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Short presentations on Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
