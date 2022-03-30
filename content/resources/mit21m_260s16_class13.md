@@ -4,6 +4,7 @@ description: 'This resource contains information regarding Stravinsky to the pre
   Class agenda.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-260-stravinsky-to-the-present-spring-2016/25651f625c1e08f8a49f113ca603f92b_MIT21M_260S16_class13.pdf
 file_type: application/pdf
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'Reactions to Destruction: Class 13 Agenda'
 uid: 25651f62-5c1e-08f8-a49f-113ca603f92b

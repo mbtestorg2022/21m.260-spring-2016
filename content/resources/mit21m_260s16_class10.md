@@ -4,6 +4,7 @@ description: 'This resource contains information regarding Stravinsky to the pre
   Class agenda.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-260-stravinsky-to-the-present-spring-2016/556ff500ec12fbfa3a52a81a70fbf9d7_MIT21M_260S16_class10.pdf
 file_type: application/pdf
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: "Bart\xF3k: The Formal and the Folk: Class 10 Agenda and Warm-up"
 uid: 556ff500-ec12-fbfa-3a52-a81a70fbf9d7

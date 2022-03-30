@@ -43,7 +43,7 @@ Curriculum Information
 
 ### Prerequisites
 
-_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005/)_ or permission of instructor.
+_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005)_ or permission of instructor.
 
 ### Requirements Satisfied
 
